@@ -1,0 +1,5 @@
+Favorite Car: Volkswagen
+Favorite movie:  Paper House
+Favorite food: grilled meat
+Favorite season: summer
+Favorite country: Italy
